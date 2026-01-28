@@ -1,7 +1,0 @@
-
-
-public interface FitnessDataObserver{
-
-
-    notify();
-}
